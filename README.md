@@ -1,2 +1,2 @@
-# deep_face_generator
+# Generating Faces with Specific Attributes - Deep Learning Project
  
